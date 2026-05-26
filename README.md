@@ -1,3 +1,8 @@
+## ACCOUNT
+CB4TUKK3E4P2DLLBLRPQY7HABB3BSUVFMC6G472ZW6OCBRSOLCEIEG73
+https://stellar.expert/explorer/testnet/contract/CB4TUKK3E4P2DLLBLRPQY7HABB3BSUVFMC6G472ZW6OCBRSOLCEIEG73
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/4de9ec01-ed9a-4db3-b4af-05a0713dc2ef" />
+
 # SplitBound Pay
 Transparent household financial coordination and automated escrow utility settlements powered by Soroban.
 
@@ -26,10 +31,5 @@ To eliminate domestic financial anxiety, remove individual debt liability, and a
 To compile the smart contract into an optimized WebAssembly (WASM) binary, run the following command in your terminal:
 ```bash
 soroban contract build
-
-## ACCOUNT
-CB4TUKK3E4P2DLLBLRPQY7HABB3BSUVFMC6G472ZW6OCBRSOLCEIEG73
-https://stellar.expert/explorer/testnet/contract/CB4TUKK3E4P2DLLBLRPQY7HABB3BSUVFMC6G472ZW6OCBRSOLCEIEG73
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/4de9ec01-ed9a-4db3-b4af-05a0713dc2ef" />
 
 
